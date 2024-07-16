@@ -17,6 +17,6 @@ The program has dozens of operations that it can perform, from creating new acco
 
 * Open the project files in your favorite java-compatible IDE (NetBeans, Eclipse).
 * Run the project from BankMenu.java.
-* 
+
 ## Authors
 McKayla McAllister
